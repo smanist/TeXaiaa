@@ -1,0 +1,7 @@
+The files here provides a class template and a style file to aid the writing of a LaTeX document.
+
+The class template is specialized for AIAA papers and reports.
+
+The style file is a general purpose package to simplify manipulation with symbols, figures, codes, etc.
+
+See detailed description in the files themselves.
